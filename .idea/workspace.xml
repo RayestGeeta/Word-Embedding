@@ -10,7 +10,9 @@
     <select />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="acb4cdc9-9601-4c64-b080-5f9d2534f5f9" name="Default Changelist" comment="glove" />
+    <list default="true" id="acb4cdc9-9601-4c64-b080-5f9d2534f5f9" name="Default Changelist" comment="glove">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -50,6 +52,9 @@
       <workItem from="1589891954109" duration="1352000" />
       <workItem from="1590124792507" duration="428000" />
       <workItem from="1590126092676" duration="148000" />
+      <workItem from="1590288597119" duration="159000" />
+      <workItem from="1590288871750" duration="6000" />
+      <workItem from="1590289009630" duration="13000" />
     </task>
     <task id="LOCAL-00001" summary="Bert">
       <created>1589937554250</created>
@@ -72,7 +77,14 @@
       <option name="project" value="LOCAL" />
       <updated>1590125224083</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="word2vec">
+      <created>1590288646814</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1590288646814</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -95,7 +107,8 @@
     <MESSAGE value="Bert" />
     <MESSAGE value="README UPDATE" />
     <MESSAGE value="glove" />
-    <option name="LAST_COMMIT_MESSAGE" value="glove" />
+    <MESSAGE value="word2vec" />
+    <option name="LAST_COMMIT_MESSAGE" value="word2vec" />
   </component>
   <component name="WindowStateProjectService">
     <state x="549" y="332" width="341" height="333" key="Github.ShareDialog" timestamp="1589892207537">
@@ -106,9 +119,9 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="119" y="1" key="SettingsEditor/0.0.1440.900@0.0.1440.900" timestamp="1589892126333" />
-    <state x="220" y="127" key="Vcs.Push.Dialog.v2" timestamp="1590125246783">
+    <state x="220" y="127" key="Vcs.Push.Dialog.v2" timestamp="1590288657168">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state x="220" y="127" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1590125246783" />
+    <state x="220" y="127" key="Vcs.Push.Dialog.v2/0.0.1440.900@0.0.1440.900" timestamp="1590288657168" />
   </component>
 </project>
